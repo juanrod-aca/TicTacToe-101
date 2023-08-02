@@ -112,3 +112,11 @@ const resetBoard = () => {
     squares[i].innerHTML = null
   }  
 }
+
+if (condition) {
+// 
+} else if (condtion) {
+// 
+} else {
+// 
+}
